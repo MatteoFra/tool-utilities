@@ -6,6 +6,5 @@ https://carbon.now.sh/
 
 ## Visual Studio
 
-settings.json
-
-vsc-extensions
+- settings.json
+- vsc-extensions
