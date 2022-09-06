@@ -16,3 +16,4 @@
 - ronnidc.nunjucks
 - stringham.move-ts
 - xabikos.ReactSnippets
+- aaron-bond.better-comments
