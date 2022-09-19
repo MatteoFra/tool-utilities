@@ -17,3 +17,4 @@
 - stringham.move-ts
 - xabikos.ReactSnippets
 - aaron-bond.better-comments
+- rangav.vscode-thunder-client

@@ -1,7 +1,5 @@
 {
   "workbench.colorTheme": "Default Dark+",
-  "workbench.statusBar.visible": false,
-  "workbench.activityBar.visible": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "none",
@@ -29,7 +27,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "liveSassCompile.settings.includeItems": [],
+  "liveSassCompile.settings.includeItems": [
+  
+  ],
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -37,5 +37,14 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"window.zoomLevel": 1
+"sync.gist": "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",
+"sync.autoUpload": false,
+"workbench.statusBar.visible": false,
+"[javascriptreact]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"window.commandCenter": false,
+"workbench.activityBar.visible": false,
+"workbench.layoutControl.enabled": false,
+"window.menuBarVisibility": "compact"
 }
