@@ -18,3 +18,4 @@
 - xabikos.ReactSnippets
 - aaron-bond.better-comments
 - rangav.vscode-thunder-client
+- cweijan.vscode-mysql-client2
