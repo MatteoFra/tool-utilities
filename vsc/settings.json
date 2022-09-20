@@ -46,5 +46,14 @@
 "window.commandCenter": false,
 "workbench.activityBar.visible": false,
 "workbench.layoutControl.enabled": false,
-"window.menuBarVisibility": "compact"
+"code-runner.languageIdToFileExtensionMap": {
+
+  "bat": ".bat",
+  "powershell": ".ps1",
+  "typescript": ".ts"
+},
+"breadcrumbs.enabled": false,
+"editor.renderControlCharacters": false,
+"window.menuBarVisibility": "compact",
+"workbench.editor.enablePreview": false
 }
